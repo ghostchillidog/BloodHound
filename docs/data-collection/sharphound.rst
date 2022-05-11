@@ -96,7 +96,7 @@ to perform looped session collection for 3 hours, 9 minutes and 41 seconds:
 Running SharpHound from a Non Domain-Joined System
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-While not an officially supported collection method, and not a colletion
+While not an officially supported collection method, and not a collection
 method we recommend you do, it is possible to collect data for a domain
 from a system that is not joined to that domain. To do so, carefully follow
 these steps:
